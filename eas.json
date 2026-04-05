@@ -1,0 +1,1 @@
+{"build": {"production": {"android": {"buildType": "apk","releaseChannel": "production"}},"staging": {"android": {"buildType": "apk","releaseChannel": "staging"}}}}}
